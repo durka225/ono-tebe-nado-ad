@@ -35,7 +35,7 @@
 }
 
 .address {
-  max-width: 240px;
+  max-width: 205px;
   font-style: normal;
   font-size: 18px;
   line-height: 1.35;
@@ -148,7 +148,7 @@
 
 .lots__card-list-item {
   width: 334px;
-  min-height: 563px;
+  min-height: 596px;
 }
 
 .card-link {
